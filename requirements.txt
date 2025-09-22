@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-openai
+langchain-hub
+openai
+langchain_community
+pydantic
+python-dotenv
+requests
+beautifulsoup4  
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+reportlab
+pytest

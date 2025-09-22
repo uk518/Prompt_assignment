@@ -78,6 +78,7 @@ if __name__=="__main__":
     The project will use the Agile methodology.
     Weekly status meetings will be held every Monday at 10 AM.
     Action Items:
+    
 
     Alice to set up the project repository by September 20.
 Bob to prepare the initial project plan.
